@@ -1,4 +1,4 @@
-# Spring Boot Application
+# Spring Boot Practices
 
 ### Overview
 
